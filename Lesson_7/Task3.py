@@ -1,0 +1,1 @@
+print("Everything will be okay")
